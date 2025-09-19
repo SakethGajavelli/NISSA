@@ -1,0 +1,16 @@
+flask
+flask-cors
+python-dotenv
+langchain
+langchain-google-genai
+langchain-community
+langchain-core
+google-generativeai
+pymongo[srv]
+requests
+pypdf
+python-multipart
+pathlib
+pydub
+elevenlabs==1.13.5
+langchain-openai
